@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "buildCommand": "cd reney-reveal-market-ghana-38-main && npm install && npm run build",
+  "outputDirectory": "reney-reveal-market-ghana-38-main/dist",
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+} 
