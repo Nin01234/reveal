@@ -1,4 +1,4 @@
-access the app url with
+App Demo
 
 https://ghana-market.vercel.app/
 
